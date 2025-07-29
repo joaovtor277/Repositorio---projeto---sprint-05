@@ -1,0 +1,43 @@
+
+.menu__ford {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.texto__legenda__carro{
+    text-align: center;
+    font-size: 25;
+}
+
+footer {
+    background-color: #1d3d73;
+    height: 15vh;
+    padding: 10px;
+    margin: auto
+
+}
+.texto__footer{
+    color: white;
+    display: flex;
+}
+
+.logo__ford__2 {
+    position: absolute;
+    right: 20px;
+    
+}
+
+
+
+
+
